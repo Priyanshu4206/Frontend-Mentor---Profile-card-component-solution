@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Frontend Mentor - Profile card component solution]()
+- Live Site URL: [Frontend Mentor - Profile card component solution](https://profile-card-component-sol.netlify.app/)
 
 ### Built with
 
@@ -44,5 +44,5 @@ While working on this project I learned concepts like :-
 
 ## Author
 
-- Website - [Frontend Mentor - Profile card component Solution]()
+- Website - [Frontend Mentor - Profile card component Solution](https://profile-card-component-sol.netlify.app/)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
